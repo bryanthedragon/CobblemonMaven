@@ -1,0 +1,29 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cSpell.words": [
+        "architectury",
+        "bedrockk",
+        "Buildscript",
+        "cadixdev",
+        "classgraph",
+        "cobblemon",
+        "dists",
+        "fabricmc",
+        "getenv",
+        "graalvm",
+        "johnrengelman",
+        "kotlinforforge",
+        "kotlinx",
+        "kyori",
+        "lambdynamiclights",
+        "lucko",
+        "mezz",
+        "minecraftforge",
+        "mockk",
+        "modrinth",
+        "molang",
+        "stdlib",
+        "thedarkcolour"
+    ]
+}
