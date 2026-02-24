@@ -1,0 +1,61 @@
+{
+    "enabled": "true",
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "miltank-1",
+            "pokemon": "miltank",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "6-24",
+            "weight": 6.0,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "#cobblemon:is_grassland"
+                ]
+            }
+        },
+		{
+            "id": "miltank-mooshtank-red-1",
+            "pokemon": "miltank mooshtank=red",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "6-24",
+            "weight": 9.9,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "minecraft:mushroom_fields"
+                ]
+            }
+        },
+		{
+            "id": "miltank-mooshtank-brown-1",
+            "pokemon": "miltank mooshtank=brown",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "6-24",
+            "weight": 0.1,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "minecraft:mushroom_fields"
+                ]
+            }
+        }
+    ]
+}
